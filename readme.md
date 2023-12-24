@@ -17,7 +17,9 @@
 [“Russia”, “Denmark”, “Kazan”] → [] 
 ``````
 
+
 Решение: Блок-схема алгоритма:
+
  ![Block-diagram](Block.png)
 
 
